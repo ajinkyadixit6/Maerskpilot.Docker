@@ -4,6 +4,8 @@ Made a changes in this ready repository to create heathcare application which ba
 
 Updated contact details to push the commited changes in this repo over Azure pipelines.
 
+With free tier Azure Devops account, impleneted this demo. Sent scrreenshot of build and container initiation command via AZURE CLI to Erica in seperate mail. 
+
 
 
 # HealthClinic.biz #
